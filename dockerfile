@@ -1,4 +1,3 @@
-# Usar la imagen base de Apache sobre Ubuntu
 FROM ubuntu/apache2:latest
 
 # Actualizar los repositorios y instalar PHP y los módulos de Apache para PHP
